@@ -1,0 +1,10 @@
+[
+    {
+        "name": "TheBloke/Llama-2-7B-Chat-GGUF",
+        "extra-cli-args": ""
+    },
+    {
+        "name": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
+        "extra-cli-args": ""
+    }
+]
